@@ -1,0 +1,2 @@
+# datafortunes
+Kosong
